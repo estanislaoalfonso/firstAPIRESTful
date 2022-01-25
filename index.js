@@ -2,8 +2,6 @@ const fs = require ('fs')
 const express = require ('express');
 const {Router} = express;
 const multer = require ('multer');
-const { info } = require('console');
-const { nextTick } = require('process');
 const port = 8080;
 
 //Routers
@@ -43,7 +41,7 @@ urlProductos.get ('/', (req, res) => {
     getAll()
 })
 
-urlProductos.get ('/:id', buscarId, (req, res) => {
+urlProductos.get ('/:id', (req, res) => {
     let productoId = JSON.parse(req.params.id);
     async function getProductById () {
         try {
