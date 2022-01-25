@@ -1,0 +1,62 @@
+[
+  {
+    "nombre": "Teclado",
+    "precio": "400",
+    "imagen": {
+      "fieldname": "imagen",
+      "originalname": "Captura de Pantalla 2022-01-24 a la(s) 20.42.05.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "uploads",
+      "filename": "imagen",
+      "path": "uploads/imagen",
+      "size": 189488
+    },
+    "id": 1
+  },
+  {
+    "nombre": "Mouse",
+    "precio": "200",
+    "imagen": {
+      "fieldname": "imagen",
+      "originalname": "Captura de Pantalla 2022-01-24 a la(s) 20.42.05.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "uploads",
+      "filename": "imagen",
+      "path": "uploads/imagen",
+      "size": 189488
+    },
+    "id": 2
+  },
+  {
+    "nombre": "Monitor",
+    "precio": "300",
+    "imagen": {
+      "fieldname": "imagen",
+      "originalname": "Captura de Pantalla 2022-01-24 a la(s) 20.42.05.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "uploads",
+      "filename": "imagen",
+      "path": "uploads/imagen",
+      "size": 189488
+    },
+    "id": 3
+  },
+  {
+    "nombre": "Notebook",
+    "precio": "1000",
+    "imagen": {
+      "fieldname": "imagen",
+      "originalname": "Captura de Pantalla 2022-01-24 a la(s) 20.42.05.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "uploads",
+      "filename": "imagen",
+      "path": "uploads/imagen",
+      "size": 189488
+    },
+    "id": 4
+  }
+]
